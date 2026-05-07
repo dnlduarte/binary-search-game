@@ -1,5 +1,6 @@
 # Jogo de Sorte com Pesquisa Binária
 # O jogo pressupõe que o usuário usa busca binária (começando pelo 50)
+# Passar pra Java
 
 import random
 
